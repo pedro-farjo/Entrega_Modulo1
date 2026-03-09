@@ -6,5 +6,5 @@
 #### Pedro Farjo https://github.com/pedro-farjo
 #### Ignacio March https://github.com/IgnacioMarch
 #### Renzo Martini https://github.com/Renzo-Martini
-#### Luca Silioni 
+#### Luca Silioni https://github.com/lucasilioni
 #### Lucas Vega https://github.com/lucassvegaa
